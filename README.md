@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 ### 
   
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucascostamonteiro&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple"/>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascostamonteiro&hide_border=true&show_icons=true&locale=en&layout=compact&theme=midnight-purple"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucascostamonteiro&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascostamonteiro&hide_border=true&show_icons=true&locale=en&layout=compact&theme=midnight-purple"/>
 
  
 <!-- ### My Projects
