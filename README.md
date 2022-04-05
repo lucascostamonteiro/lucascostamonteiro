@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
  </img>
  </a>
- <a href="https://angel.co/u/lucas-monteiro-4">
+ <a href="https://angel.co/u/lucascostamonteiro">
    <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
  </img>
  </a>
