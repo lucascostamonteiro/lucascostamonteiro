@@ -63,19 +63,25 @@ Here are some ideas to get you started:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham&card_width=500)](https://github.com/vernfongchao/Stay-The-Night)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham&card_width=100)](https://github.com/vernfongchao/MvDC) -->
 
-  ###
-  
+ 
+ ### 
  <div align='left'>
+  <h4>About Me</h4>
+
+- 😄 I'm software engineer from Brazil, living in California
+  
+- ⚡ Other interests are soccer, F1, surf, volleyball 
+  
+- 📫 How to reach me lucascostamonteiro@yahoo.com
   
 <!-- - 🔭 I’m currently working on .. -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->   
-<!-- - 📫 How to reach me: lucascostamonteiro@yahoo.com -->
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ...  -->
 
+<div>
 
   
   
