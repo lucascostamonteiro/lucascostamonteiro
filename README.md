@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
  <h1>
   Welcome to My Github
-  <img src="https://media.giphy.com/media/QA7As7Y2W5KsLFVvxu/giphy.gif" width="45px"/>
+  <img src="https://media.giphy.com/media/QA7As7Y2W5KsLFVvxu/giphy.gif" width="40px" height="40px"/>
 </h1>
 
  
