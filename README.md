@@ -54,17 +54,11 @@ Here are some ideas to get you started:
 
 ### 
   
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascostamonteiro&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascostamonteiro&hide_border=true&show_icons=true&locale=en&layout=compact&theme=midnight-purple"/> -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascostamonteiro&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascostamonteiro&hide_border=true&show_icons=true&locale=en&layout=compact&theme=midnight-purple"/>
 
  
-<!-- ### My Projects
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham&card_width=500)](https://github.com/vernfongchao/Stay-The-Night)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham&card_width=100)](https://github.com/vernfongchao/MvDC) -->
-
  
- ### 
  <div align='left'>
   <h4>About Me</h4>
 
