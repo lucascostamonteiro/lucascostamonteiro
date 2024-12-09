@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 - 😄 I'm software engineer from Brazil, living in California
   
-- ⚡ Other interests are travelling, outdoors adventures, football soccer, F1, surf
+- ⚡ Other interests are travelling, outdoors adventures, soccer, F1, surf
   
 - 📫 How to reach me lucascostamonteiro@yahoo.com
   
