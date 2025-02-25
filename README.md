@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 
 
 <div align="center">
- <a href="https://www.linkedin.com/in/lucascostamonteiro">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
- </img>
- </a>
- <a href="https://angel.co/u/lucascostamonteiro">
-   <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
- </img>
- </a>
+ <a href="https://www.linkedin.com/in/lucascostamonteiro"/>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!--  </a> -->
+ <a href="https://wellfound.com/u/lucascostamonteiro"/>
+ <img src="https://img.shields.io/badge/Wellfound-%23D4D4D4.svg?style=for-the-badge&logo=Wellfound&logoColor=black"/>
+<!--  </a> -->
  
  <h1>
   Welcome to My Github
